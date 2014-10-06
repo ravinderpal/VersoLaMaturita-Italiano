@@ -15,3 +15,5 @@ L'autore principale è Auguste **Comte** che nel ***Corso di filosofia positiva*
 3. *Positiva*, ovvero del positivismo; oltre alle scienze sperimentali aggiungono anche la sociologia, perché anche la realtà sociale sottolinea che con l'osservazione si arriva alla tesi.
 
 Un altro autore importante è **Darwin** che parla dell'evoluzione dell'uomo e della selezione naturale. Secondo lui, chi riesce ad adattarsi all'ambiente modifica le proprie caratteristiche fisiche e le trasmette alle generazioni successive.(Evoluzione e selezione naturale).
+
+La fine del **Positivismo** arriva all'inizio del novecento: a causa della crisi dell'epoca, si perde la fiducia nella ragione.
