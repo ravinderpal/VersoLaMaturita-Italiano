@@ -1,5 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
+* [Introduzione](README.md)
 * [Positivismo](positivismo/README.md)
 
