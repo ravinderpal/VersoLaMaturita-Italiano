@@ -7,11 +7,11 @@ Nasce come termine militare in _Italia_, nell’_ottocento_ assume un significat
 
 In letteratura assume significato di _artista rivoluzionario_ che vuole rompere con gli standard suo tempo.
 
-Questi artisti utilizzano un linguaggio _distintivo_ e _diretto_ che crea scandalo, investe tutte le arti. Qualsiasi tipo di Avanguardia nasce da un caposcuola che promuove un __Manifesto__.
+Questi artisti utilizzano un linguaggio _distintivo_ e _diretto_ che crea scandalo, investe tutte le arti. Qualsiasi tipo di avanguardia nasce da un caposcuola che promuove un __Manifesto__.
 
 ## Futurismo
 
-Nasce in Italia con Filippo Tommaso __Marinetti__ nell’inizio del _novecento_. Motivo storico per la nascita del Futurismo era lo sviluppo della tecnologia (automobile, areoplano, elettricità).
+Nasce in Italia con Filippo Tommaso __Marinetti__ nell’inizio del _novecento_. Motivo storico per la nascita del futurismo era lo sviluppo della tecnologia (automobile, areoplano, elettricità).
 
 Si dà importanza alla fantasia, c’è libertà, non ci sono schemi, senza punteggiatura. Nella pittura l’autore principale è Carlo __Carrà__. In letteratura __Marinetti__, __Govoni__ e Aldo __Palazzeschi__.
 
@@ -21,7 +21,7 @@ Nasce in Germania nel _novecento_, nasce come movimento pittorico. Dall’arte s
 
 Nella pittura si preferiscono le immagini grottesche, il dipinto più famoso è _L’urlo_ di __Munch__.
 
-Anche nella letteratura si preferiscono si preferiscono temi bizzarri, autori principali Federico __Tozzi__ e Carlo Emilio __Gadda__.
+Anche nella letteratura si preferiscono si preferiscono temi bizzarri, autori principali Federico __Tozzi__ e Carlo Emilio __Gadda__
 
 ### Dadaismo
 
@@ -38,3 +38,16 @@ Abbraccia l’idea del comunismo e dà importanza anche all’inconscio.
 Autori: __Salvador Dalì__
 
 Nell’arte si utilizzavano oggetti di uso comune per rappresentare la forma umana. Non si seguono regole grammaticali o sintattiche.
+
+### Naturalismo
+Teorico del naturalismo __Taine__, vede l’artista come uno scienziato che studia la società e gli uomini che la compongono
+- L’ereditarietà della razza (ras)
+- L’ambiente sociale (Millieu)
+- I fatti contingenti
+- Il moman
+
+Come Taine, il teorico e scrittore Emile __Zola__ parla dell’artista come uno scienziato che deve sperimentare.
+Attraverso la scienza l’uomo può controllare bene e male, dare delle regole alla propria vita e risolvere i problemi della società
+
+
+
