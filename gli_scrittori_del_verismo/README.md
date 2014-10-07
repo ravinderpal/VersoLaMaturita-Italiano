@@ -1,8 +1,19 @@
-# GLI SCRITTORI DEL VERISMO
+# Verismo
 
-Il __Verismo__ fu chiamato così per l’attenzione al vero, alla vita quotidiana della gente e alle problematiche sociali o d’ambiente. Gli scrittori del Verismo si soffermavano specialmente sulle miserie, economiche e sociali, del __Mezzogiorno__ d’Italia all’indomani della raggiunta __Unità d’Italia__.
+Il __Verismo__ fu chiamato così per l’attenzione al vero, alla vita quotidiana della gente e alle problematiche sociali o d’ambiente. Si diffonde tra _contadini_ e _minatori_.
 
-##Analogie tra Naturalismo e Verismo:
+Gli scrittori del Verismo si soffermavano specialmente sulle miserie, economiche e sociali, del __Mezzogiorno__ d’Italia all’indomani della raggiunta __Unità d’Italia__.
+
+#### Autori
+
+- __Luigi Capuana__ che ha scritto l’opera che teorizza cosa dev’essere il verismo.
+- __Verga__ che scrive un’opera lirica chiamata Fantasticheria in cui si parla della teoria.
+- __Federico de Roberto__ con il romanzo _i Viceré_ ambientato nel passaggio dai Borboni all’unità d’Italia a Catania
+
+Sono pessimisti e scrivono per sottolineare l’impossibilità di riscattare le loro condizioni.
+
+
+## Analogie tra Naturalismo e Verismo:
 - I veristi ripresero alcune esigenze di base del Naturalismo
 - L’attenzione sistematica all’ambiente sociale
 - L’osservazione rigorosa delle passioni umane

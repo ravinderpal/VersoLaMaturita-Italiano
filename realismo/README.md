@@ -23,18 +23,6 @@ Teorico ma anche scrittore, Émile __Zola__ è uno degli autori principali. Anch
 
 Attraverso la scienza l’uomo può controllare bene e male, dare delle regole alla propria vita e risolvere i problemi della società.
 
-## Verismo
-
-In Italia si diffonde il verismo tra contadini e minatori.
-
-#### Autori
-
-- __Luigi Capuana__ che ha scritto l’opera che teorizza cosa dev’essere il verismo.
-- __Verga__ che scrive un’opera lirica chiamata Fantasticheria in cui si parla della teoria.
-- __Federico de Roberto__ con il romanzo _i Viceré_ ambientato nel passaggio dai Borboni all’unità d’Italia a Catania
-
-Sono pessimisti e scrivono per sottolineare l’impossibilità di riscattare le loro condizioni.
-
 ## Realismo nel Teatro
 
 Anche nel teatro ci sono opere sia **Naturaliste** che **Veriste**, viene creato il teatro libero costituito da **Andre Antoine**.
