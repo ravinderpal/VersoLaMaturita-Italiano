@@ -7,11 +7,11 @@ Nasce come termine militare in _Italia_, nell’_ottocento_ assume un significat
 
 In letteratura assume significato di _artista rivoluzionario_ che vuole rompere con gli standard suo tempo.
 
-Questi artisti utilizzano un linguaggio _distintivo_ e _diretto_ che crea scandalo, investe tutte le arti. Qualsiasi tipo di avanguardia nasce da un caposcuola che promuove un __Manifesto__.
+Questi artisti utilizzano un linguaggio _distintivo_ e _diretto_ che crea scandalo, investe tutte le arti. Qualsiasi tipo di Avanguardia nasce da un caposcuola che promuove un __Manifesto__.
 
 ## Futurismo
 
-Nasce in Italia con Filippo Tommaso __Marinetti__ nell’inizio del _novecento_. Motivo storico per la nascita del futurismo era lo sviluppo della tecnologia (automobile, areoplano, elettricità).
+Nasce in Italia con Filippo Tommaso __Marinetti__ nell’inizio del _novecento_. Motivo storico per la nascita del Futurismo era lo sviluppo della tecnologia (automobile, areoplano, elettricità).
 
 Si dà importanza alla fantasia, c’è libertà, non ci sono schemi, senza punteggiatura. Nella pittura l’autore principale è Carlo __Carrà__. In letteratura __Marinetti__, __Govoni__ e Aldo __Palazzeschi__.
 
@@ -21,7 +21,7 @@ Nasce in Germania nel _novecento_, nasce come movimento pittorico. Dall’arte s
 
 Nella pittura si preferiscono le immagini grottesche, il dipinto più famoso è _L’urlo_ di __Munch__.
 
-Anche nella letteratura si preferiscono si preferiscono temi bizzarri, autori principali Federico __Tozzi__ e Carlo Emilio __Gadda__
+Anche nella letteratura si preferiscono si preferiscono temi bizzarri, autori principali Federico __Tozzi__ e Carlo Emilio __Gadda__.
 
 ### Dadaismo
 
