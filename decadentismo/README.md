@@ -20,7 +20,7 @@ Tra gli autori, **Nietzsche**:
 
 ### Prima Fase
 
-A cavallo tra l’_ottocento_ e il _novecento_, si dà importanza alle sensazioni ma a differenza del _Romanticismo_ dà importanza all’istinto e all’inconscio.
+A cavallo tra l’_ottocento_ e il _novecento_, si dà importanza alle sensazioni ma, a differenza del _Romanticismo_, ci si concentra sull'importanza all’istinto e all’inconscio.
 
 A questa fase appartengono i _Simbolisti_ come **Baudelaire**, __Verlaine__ e __Rimbaud__.
 
@@ -30,17 +30,16 @@ Lo scopo è una protesta per migliorare la realtà.
 
 ### Seconda Fase
 
+Il letterato non può mutare la realtà di fatto, la rivela senza più illudersi di poterla migliorare.
 Lo scopo dell’autore è rilevare la realtà ma non si migliora.
-
-Queste opere vedono come protagonisti gli inetti, incapaci di cambiare la realtà.
+il protagonista è un inetto, un uomo senza qualità, un indifferente.
+Secondo Baudelaire (I fiori del male) lo scrittore deve svelare i segreti legami che s’instaurano tra le cose e nella natura, la poesia diviene uno strumento utile a rivelare il significato dei simboli (rapporti tra cosa e cosa e cosa e uomo) mentre il poeta è un veggente. Per raggiungere la parola pura, i simbolisti valorizzano alcune figure retoriche come la sinestesia o l’analogia.
 
 **Autori**: _Italo Svevo_, _Luigi Pirandello_, _Joyce_, _Proust_.
 
-## Simbolismo
+## Simbolismo(o Decadentismo francese)
 
 **Baudelaire** è l'autore principale con l’opera _I fiori del male_.
-
-Il compito dello scrittore è scoprire i simboli, che sono legami segreti tra le cose e cose o tra cose e uomo: il poeta diventa un veggente che vede queste corrispondenze.
 
 Successori:
 
@@ -55,4 +54,4 @@ Esempi:
 - _Il piacere_ di __D’Annunzio__
 - _Il ritratto di Dorian Gray_ di __Oscar Wilde__
 
-Le azioni devono essere belle e non necessariamente buone.
+In base a questa concezione, _non_ importa compiere le azioni __buone__, _ma_ __belle__ Le azioni devono essere belle e non necessariamente buone.
