@@ -2,7 +2,7 @@
 
 Movimenti _culturali_ e _politici_ del novecento in Europa.
 
-## Avanguardia
+## Le Avanguardie
 Nasce come termine militare in _Italia_, nell’_ottocento_ assume un significato politico e indica quel gruppo di persone che combattono per la libertà.
 
 In letteratura assume significato di _artista rivoluzionario_ che vuole rompere con gli standard suo tempo.
@@ -27,19 +27,22 @@ Anche nella letteratura si preferiscono si preferiscono temi bizzarri, autori pr
 
 Nasce a __Zurigo__ da Tristan __Tzara__, per rompere con le convenzioni borghesi scrive parole in libertà.
 
-Nell'arte consiste in oggetti di uso comune.
+
+Dada è una parola scelta a caso che non significa nulla.
+
+L’avanguardia dadaista gioca con gli oggetti e le parole in totale libertà, esponendo con la solennità dell’arte tradizionale gli oggetti di uso comune (ready mades)
 
 ### Surrealismo
 
 Fondato da __Andrè Breton__, lo scopo è il desiderio di far cambiare vita e di riscattare la società.
 
-Abbraccia l’idea del comunismo e dà importanza anche all’inconscio.
+Abbraccia l’ideologia rivoluzionaria del comunismo e dà importanza anche all’inconscio.
 
 Autori: __Salvador Dalì__
 
 Nell’arte si utilizzavano oggetti di uso comune per rappresentare la forma umana. Non si seguono regole grammaticali o sintattiche.
 
-### Naturalismo
+### Il Naturalismo francese
 Teorico del naturalismo __Taine__, vede l’artista come uno scienziato che studia la società e gli uomini che la compongono
 - L’ereditarietà della razza (ras)
 - L’ambiente sociale (Millieu)
