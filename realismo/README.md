@@ -5,10 +5,9 @@ Il Realismo si diffonde principalmente sotto forma di **Verismo** e **Naturalism
 ## Naturalismo
 
 Nasce in Francia tra il 1865 e il 1870, fa parte del realismo perché nelle opere si dà importanza alla realtà oggettiva.
+Manifestava inoltre, l’attenzione per la realtà e per il vero e applica alla letteratura le idee del **Positivismo**.
 
-Applica alla letteratura le idee del **Positivismo**.
-
-I naturalisti si paragonano ai medici: _osservano la realtà_, conducono esperimenti sulla realtà, ricostruiscono la psicologia per stendere un documento umano oggettivo, realistico e concreto.
+I naturalisti si paragonano agli scienziati: _osservano la realtà_, conducono esperimenti sulla di essa, ricostruiscono la psicologia per stendere un documento umano oggettivo, realistico e concreto.
 
 Le caratteristiche stilistiche sono **impersonalità** e **oggettività**.
 
