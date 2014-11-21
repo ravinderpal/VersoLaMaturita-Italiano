@@ -21,23 +21,19 @@ Nasce in __Germania__ nel _novecento_, nasce come movimento pittorico. Dall’ar
 
 Il dipinto più famoso è _L’urlo_ di __Munch__.
 
-Anche nella letteratura si preferiscono si preferiscono temi bizzarri. Gli autori principali sono Federico __Tozzi__ e Carlo Emilio __Gadda__
+Anche nella letteratura si preferiscono si preferiscono temi bizzarri. Gli autori principali sono Federico __Tozzi__ e Carlo Emilio __Gadda__.
 
 
 ### Dadaismo
 
-Nasce a __Zurigo__ da Tristan __Tzara__, per rompere con le convenzioni borghesi scrive parole in libertà.
+Nasce durante la prima guerra mondiale a __Zurigo__(quindi in un paese neutrale) grazie a Tristan __Tzara__.  I poeti vogliono rompere le convenzioni borghesi per scrivere parole in libertà e sono contro la guerra.
 
-Dada è una parola scelta a caso che non significa nulla.
+_Dada_ è una parola scelta a caso che non significa nulla.
 
-L’avanguardia dadaista gioca con gli oggetti e le parole in totale libertà, esponendo con la solennità dell’arte tradizionale gli oggetti di uso comune (_ready mades_)
+L’avanguardia dadaista gioca con gli oggetti e le parole in totale libertà, esponendo con la solennità dell’arte tradizionale gli oggetti di uso comune (_ready mades_).
 
 ### Surrealismo
 
 Fondato da __Andrè Breton__, lo scopo è il desiderio di far cambiare vita e di riscattare la società.
-
 Abbraccia l’ideologia rivoluzionaria del comunismo e dà importanza anche all’inconscio.
-
-Autori: __Salvador Dalì__
-
 Nell’arte si utilizzavano oggetti di uso comune per rappresentare la forma umana. Non si seguono regole grammaticali o sintattiche.

@@ -8,14 +8,14 @@ Gli scrittori del Verismo si soffermavano specialmente sulle miserie, economiche
 
 - __Luigi Capuana__, considerato grande teorico del Verismo, si occupò molto fu divulgare l'esperienza dei naturalisti tramite molti articoli e saggi critici.
 - __Verga__, che diede anche contributi teorici con la novella Fantasticheria e a seguire una lettera all'amico _Salvartore Farina_ e _Prefazione dei Malavoglia_.
-- __Federico de Roberto__, scrive il romanzo _Viceré_ ambientato nel passaggio dai Borboni all’unità d’Italia a Catania
+- __Federico de Roberto__, scrive il romanzo _Viceré_ ambientato nel passaggio dai Borboni all’unità d’Italia a Catania.
 
 Sono pessimisti e scrivono per sottolineare l’impossibilità di riscattare le loro condizioni.
 
 
 ## Analogie tra Naturalismo e Verismo:
 - Derivazione dal Realismo; quindi entrambe descrivono la realtà del tempo.
-- L’osservazione rigorosa delle passioni umane
+- L’osservazione rigorosa delle passioni umane.
 - Il desiderio di dare alla letteratura appropriati strumenti d’indagine e di rappresentazione, cioè un’anima scientifica.
 
 
