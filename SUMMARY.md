@@ -12,4 +12,7 @@
    * [Poetica](giovanni_verga/poetica.md)
    * [I Malavoglia](giovanni_verga/i_malavoglia.md)
    * [Mastro Don Gesualdo](giovanni_verga/mastro_don_gesualdo.md)
+* [Giuseppe Ungaretti](giuseppe_ungaretti/README.md)
+   * [Vita e Opere](giuseppe_ungaretti/vita.md)
+   * [Poesie](giuseppe_ungaretti/poesie.md)
 
