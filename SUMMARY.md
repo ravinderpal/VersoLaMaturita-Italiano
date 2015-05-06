@@ -17,7 +17,8 @@
    * [Poesie](giuseppe_ungaretti/poesie.md)
 * [Eugenio Montale](eugenio_montale/README)
    * [Vita](eugenio_montale/vita.md)
-   * [Opere e temi](eugenio_montale/opere_e_temi.md)
+   * [Temi](eugenio_montale/opere_e_temi.md)
    * [Poetica e stile](eugenio_montale/poetica_e_stile.md)
    * [Poesie](eugenio_montale/poesie.md)
+   * [Brani](eugenio_montale/brani.md)
 

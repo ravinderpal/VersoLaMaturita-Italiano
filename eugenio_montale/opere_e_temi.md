@@ -1,4 +1,4 @@
-# Opere e temi
+# Temi
 
 ##Il poeta “classico” del Novecento italiano:
 La poesia di Montale può essere suddivisa in tre stagioni poetiche fondamentali, ciascuna delle quali segnata da un ambiente caratteristico di vita e lavoro: Liguria, Firenze e Milano.

@@ -28,5 +28,5 @@ La vita interiore del poeta e l'io soggettivo diventavano i protagonisti dell'op
 La tematica è quella della donna, in questo caso Cinzia, che può svolgere un'opera essenziale anche se nemmeno lei è la salvatrice dell'io e del mondo. Cinzia e tutte le altre sono creature idealizzate, assomiglia a Laura di Petrarca più che a Beatrice di Dante.
 
 ##La bufera e altro:
-##La poesia montaliana a diretto contrasto con la storia:
+###La poesia montaliana a diretto contrasto con la storia:
 Montale introduce nella sua poesia nuove tematiche storiche, le liriche confluite nella raccolta furono concepite durante la guerra, la bufera che da  il titolo alla raccolta e alla prima lirica è infatti la guerra, tragedia collettiva dalla quale nessuno può salvarsi. La storia incalza con i  suoi orrori ma nel  libro l'attualità è sempre indiretta, trasfigurata sullo sfondo di immagini allegoriche non semplici da decifrare. I defunti sono simili alle ombre. La donna ha un ruolo salvifico e il poeta è laico.
