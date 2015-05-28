@@ -34,4 +34,7 @@
    * [Poesie](eugenio_montale/poesie.md)
    * [Brani](eugenio_montale/brani.md)
 * [Italo Calvino](italo_calvino/README.md)
+   * [Vita](italo_calvino/vita.md)
+   * [Poetica](italo_calvino/poetica.md)
+   * [Opere](italo_calvino/opere.md)
 
