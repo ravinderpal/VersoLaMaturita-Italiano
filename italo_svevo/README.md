@@ -1,16 +1,9 @@
-# Italo Svevo(Aron Hector Schmitz)
-
+# Italo Svevo
 
 ##Vita
 - Nasce nel 1861 da famiglia ebraica
-- A londra conosce Joyce(psicoanalisi)
-- Riferimento a Trieste, città multiculturale:
-    - Tedesca
-    - Viennese
-    - Italiana
-    - Slovena
-    - Serba
-    - Ebraica
+- A Londra conosce Joyce(psicoanalisi)
+- Riferimento a Trieste, città multiculturale(tedesca, viennese, italiana, slovena, serba, ebraica)
 - Muore nel 1928
 
 ##Formazione
