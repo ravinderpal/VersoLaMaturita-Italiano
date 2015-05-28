@@ -22,6 +22,7 @@
    * [Vita](vita.md)
    * [Poetica](poetica.md)
    * Opere
+* Luigi Pirandello
 * [Giuseppe Ungaretti](giuseppe_ungaretti/README.md)
    * [Vita e Opere](giuseppe_ungaretti/vita.md)
    * [Poesie](giuseppe_ungaretti/poesie.md)
@@ -32,5 +33,4 @@
    * [Poesie](eugenio_montale/poesie.md)
    * [Brani](eugenio_montale/brani.md)
 * [Italo Calvino](italo_calvino/README.md)
-* Luigi Pirandello
 
