@@ -22,7 +22,7 @@
    * [Vita](vita.md)
    * [Poetica](poetica.md)
    * Opere
-* Luigi Pirandello
+* [Luigi Pirandello](luigi_pirandello.md)
 * [Giuseppe Ungaretti](giuseppe_ungaretti/README.md)
    * [Vita e Opere](giuseppe_ungaretti/vita.md)
    * [Poesie](giuseppe_ungaretti/poesie.md)
