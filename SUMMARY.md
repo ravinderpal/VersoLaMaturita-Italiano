@@ -21,6 +21,7 @@
 * [Italo Svevo](italo_svevo/README.md)
    * [Vita](vita.md)
    * [Poetica](poetica.md)
+   * Opere
 * [Giuseppe Ungaretti](giuseppe_ungaretti/README.md)
    * [Vita e Opere](giuseppe_ungaretti/vita.md)
    * [Poesie](giuseppe_ungaretti/poesie.md)
