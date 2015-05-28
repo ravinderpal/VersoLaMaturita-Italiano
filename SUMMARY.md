@@ -20,7 +20,7 @@
    * [Vita](giovanni_pascoli/vita.md)
 * [Italo Svevo](italo_svevo/README.md)
    * [Vita](vita.md)
-   * Poetica
+   * [Poetica](poetica.md)
 * [Giuseppe Ungaretti](giuseppe_ungaretti/README.md)
    * [Vita e Opere](giuseppe_ungaretti/vita.md)
    * [Poesie](giuseppe_ungaretti/poesie.md)
