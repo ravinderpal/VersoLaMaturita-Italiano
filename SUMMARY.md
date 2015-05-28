@@ -32,4 +32,5 @@
    * [Poesie](eugenio_montale/poesie.md)
    * [Brani](eugenio_montale/brani.md)
 * [Italo Calvino](italo_calvino/README.md)
+* Luigi Pirandello
 
