@@ -16,6 +16,9 @@
    * [Vita](gabriele_dannunzio/vita.md)
    * [Poetica](gabriele_dannunzio/peotica.md)
    * [Opere](gabriele_dannunzio/opere.md)
+* [Giovanni Pascoli](giovanni_pascoli/README.md)
+   * [Vita](giovanni_pascoli/vita.md)
+* [Italo Svevo](italo_svevo/README.md)
 * [Giuseppe Ungaretti](giuseppe_ungaretti/README.md)
    * [Vita e Opere](giuseppe_ungaretti/vita.md)
    * [Poesie](giuseppe_ungaretti/poesie.md)
@@ -25,7 +28,5 @@
    * [Poetica e stile](eugenio_montale/poetica_e_stile.md)
    * [Poesie](eugenio_montale/poesie.md)
    * [Brani](eugenio_montale/brani.md)
-* [Giovanni Pascoli](giovanni_pascoli/README.md)
-   * [Vita](giovanni_pascoli/vita.md)
 * [Italo Calvino](italo_calvino/README.md)
 
