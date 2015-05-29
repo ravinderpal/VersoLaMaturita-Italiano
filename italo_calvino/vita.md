@@ -1,4 +1,4 @@
-# Vita
+# Vita Calvino
 
 __Italo Calvino__ in collaborazione con il _Politecnico_ fondò la rivista culturale _Il Menabò_  della casa editrice _Einaudi_. Uscì dal partito comunista dopo la crisi dei fatti dell'Ungheria.
 
