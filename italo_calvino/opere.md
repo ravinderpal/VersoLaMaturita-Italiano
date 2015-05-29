@@ -11,7 +11,7 @@ Si evidenziano elementi caratteristici del Neorealismo. Altri elementi però dis
 Gli elementi fantastici che allontanano il racconto dal tipo realistico e oggettivo sono:
 - il protagonista, Pin, è un ragazzo e tutta la vicenda è vista attraverso i suoi occhi ricchi di stupore verso il mondo;
 - anche molti altri personaggi sono ragazzi;
-- è fiabesco e favoloso anche il luogo dove Pin va a giocare e dove ogni notte si compie un incantesimo. Anche la pistola è magica come una bacchetta fatata.
+- è fiabesco e favoloso anche il luogo dove Pin va a giocare per rifugiarsi dalle incomprensioni degli adulti e dalla solitudine. 
 
 In quest’opera la realtà e l’immaginazione trovano un  raro equilibrio.
 
