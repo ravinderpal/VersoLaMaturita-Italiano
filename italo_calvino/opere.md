@@ -24,8 +24,8 @@ Pin è un ragazzo orfano che vive nei vicoli di Sanremo con la sorella prostitut
 Calvino era attratto dalla scienza, il compito della letteratura per lui è quello di tracciare la mappa per poter interpretare il labirinto della realtà contemporanea e quindi padroneggiarlo. Tale sfida al labirinto presuppone dunque per la letteratura un compito di conoscenza. Calvino prende come esempio Galileo, ammirato per il rigore del suo linguaggio e anche per la capacità di costruire con la sua immaginazione scientifica.
 ###Racconti cosmicomici:
 Ciascun racconto inizia con un’asserzione di tipo scientifico, l’allontanamento della Luna dalla Terra, oppure il tempo impiegato dal Sole per compiere una rivoluzione completa, o ancora l’assenza dei colori prima che si formasse l’atmosfera terrestre. Sono spunti che l’immaginazione dello scrittore usa per dare  vita a narrazioni che paiono fantascientifiche.
-###Il mondo di Qfwfq (si chiama così il protagonista) e il significato del libro:
-Il protagonista è un organismo primordiale dal nome impronunciabile tutto quanto vive e pulsa nell’universo viene presentato da lui come qualcosa che ha incontrato o vissuto nella sua vita. Qfwfq è una voce, un punto di vista, un occhio umano proiettato sulla realtà, che vuole mostrare la piccolezza degli uomini rispetto all’infinitamente grande che la scienza ci mostra.
+###Il mondo di Qfwfq e il significato del libro:
+Il protagonista, Qfwfq, è un organismo primordiale dal nome impronunciabile. Tutto quanto vive e pulsa nell’universo e viene presentato da lui come qualcosa che ha incontrato o vissuto nella sua vita. Qfwfq è una voce, un punto di vista, un occhio umano proiettato sulla realtà, che vuole mostrare la piccolezza degli uomini rispetto all’infinitamente grande che la scienza ci mostra.
 
 
 ##Se una notte d’inverno un  viaggiatore:
