@@ -1,2 +1,0 @@
-# Il percorso delle opere
-
