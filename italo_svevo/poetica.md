@@ -1,11 +1,13 @@
 # Poetica
 
-La formazione e le idee
+##La formazione e le idee
 In gioventù fu un lettore avido: lesse i classici italiani, gli autori del Realismo e del Naturalismo francese e del grande romanzo russo e maturò un forte interesse per la cultura inglese grazie a Joyce.
 Combinando Darwin con Schopenhauer il mondo gli appare la sede di un inevitabile conflitto: ogni essere contende ai suoi simili il diritto all’esistenza. Tutto ciò però porta solo una diminuzione della capacità vitale. Scriverà così dei saggi in cui rileva il malcontento e la spinta dell’uomo a trasformarsi per raggiungere il successo a prezzo però della corruzione. Con Karl Marx maturò una forte consapevolezza circa i riflessi che l’economia e i processi della produzione esercitano sulla psicologia e sui comportamenti individuali. Grazie a Sigmund Freud affermò che la psicoanalisi è più utile come spunto letterario che come strumento medico e terapeutico. Le origini ebraiche rendono presente la cultura dei padri per l’atteggiamento arguto incline all’autoanalisi e all’ironia e perché i protagonisti vivono il dolore fino al suicidio.
-Una poetica di riduzione della letteratura
+
+##Una poetica di riduzione della letteratura
 Svevo ridimensiona il ruolo della letteratura e del poeta. Essa infatti è semplicemente un modo per conoscersi meglio. Il vecchio del quarto romanzo afferma che la letteratura ha per lui il semplice valore di purgante.
 Il tema prediletto diviene quello del ricordo, il più adatto all’autoconoscenza e all’introspezione; ricordare significa muoversi nel tempo che è sempre soggettivo: il tempo puro non esiste, nel ricordo rivive “un tempo misto com’è il destino dell’uomo”. Accanto al tema del ricordo vi è quello della malattia (inettitudine). Svevo sceglie quindi uno stile vivo, parlato, elemento del realismo.
-Il percorso delle opere
+
+##Il percorso delle opere
 I suoi primi testi sono pensati per il teatro, oltre agli articoli di critica per il giornale. Pubblica i racconti Una lotta e L’assassinio di via Belpoggio. Una vita racconta la sconfitta esistenziale di Alfonso Nitti, un impiegato di banca che coltiva sogni letterari, ma finisce col suicidarsi. Il romanzo rielabora alcuni elementi della biografia sveviana: l’ambiente triestino e la professione bancaria. Usa la figura dell’inetto, infatti Alfonso fallisce per la sua profonda inettitudine. È ambizioso, rifiuta lo studio e la solitudine per coltivare il proposito di affermarsi nell’arte.
 In Senilità utilizza una trama esile e poco originale. Emilio Brentani è un vecchio che rinuncia a vivere per osservare la vita dal di fuori. Anche lui è un letterario solitario, introverso e malinconico che s’illude troppo facilmente, un sognatore. Il romanzo conclude con Emilio che non si suicida, ma sopravvive al proprio fallimento sentimentale.
