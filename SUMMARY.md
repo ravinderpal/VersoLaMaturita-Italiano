@@ -18,6 +18,7 @@
    * [Opere](gabriele_dannunzio/opere.md)
 * [Giovanni Pascoli](giovanni_pascoli/README.md)
    * [Vita](giovanni_pascoli/vita.md)
+   * Il percorso delle opere
 * [Italo Svevo](italo_svevo/README.md)
    * [Vita](vita.md)
    * [Poetica](poetica.md)
