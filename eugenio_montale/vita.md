@@ -12,4 +12,4 @@ Per rendersi economicamente indipendente si trasferisce a Firenze dove lavora co
 ##Nella “bufera” della guerra e il dopoguerra:
 Aderisce al Partito d'azione di orientamento antifascista. Dal '46 inizia a collaborare in qualità di critico musicale al “Corriere d'Informazione” due anni dopo prende a scrivere sul “Corriere della Sera”. Nel 1975 ottiene il premio Nobel per la letteratura e muore a Milano nel 1981.
 
-Muore nel 1981 a Milano.
+Muore a Milano nel 1981.
