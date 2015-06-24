@@ -13,7 +13,7 @@ Il tema amoroso diventa centrale nelle opere successive, “Una peccatrice”, �
 Nedda è un racconto che ritrae una situazione e un destino prima che una vicenda. Lo scrittore cerca un'adesione anche alla linguistica del suo ambiente di vita e lavoro. Nel racconto si leggono espressioni modellate su una sintassi dialettale.
 
 
-##I racconti di “Vita di Campi”
+##I racconti di _Vita di Campi_
 Per Verga era importante non cadere nell'errore di Capuana di soddisfare semplicemente la superficiale curiosità dei suoi lettori verso l'esistenza così diversa e lontana dei suoi personaggi siciliani.
 Si sforzò quindi di:
 ripudiare il gusto per l'aneddoto folkloristico
@@ -28,21 +28,21 @@ i dialoghi sono concisi, privi di eleganza formale, intessuti di fatti e cose.
 Si parla di vicende generalmente cupe e tragiche, originate dalla passioni elementari , e sfociano in soluzioni emotive e psicologiche sempre estreme.
 La novità più grande è la creazione di una figura di “narratore popolare”, appartenente al mondo in cui viene ambientato il racconto,narra attraverso una voce umana fuori campo.
 
-##Il “ciclo dei vinti” e “I Malavoglia”
-Scrisse un ciclo romanzesco a cui pensava di dare il titolo complessivo “Marea”, per indicare il flusso e riflusso inarrestabile delle vicende umane e anche l'impossibilità di resistervi. SI considera come “Ciclo dei vinti” perchè la classe sociale perde sempre e Verga voleva scrivere 5 romanzi ma riesce a terminarne solo due, questi romanzi dovevano partire da un livello basso della scala sociale per arrivare a un grado sempre più elevato.
-* 1° livello “I Malavoglia”: i pescatori analfabeti
-* 2° livello “Mastro don Gesualdo”: il contadino arricchito
-* 3° livello “la duchessa di Leyra”: la figlia del contadino e moglie del nobile
-* 4° livello “L'onorevole Scipione”:figlio della duchessa, intraprende con successo la carriera politica.
-* 5° livello “L'uomo di lusso”: il più alto, figlio dell'onorevole ed è l'esteta spendaccione.
+##_Il ciclo dei vinti_ e _I Malavoglia_
+Scrisse un ciclo romanzesco a cui pensava di dare il titolo complessivo “Marea”, per indicare il flusso e riflusso inarrestabile delle vicende umane e anche l'impossibilità di resistervi. SI considera come _Ciclo dei vinti_ perchè la classe sociale perde sempre e Verga voleva scrivere 5 romanzi ma riesce a terminarne solo due, questi romanzi dovevano partire da un livello basso della scala sociale per arrivare a un grado sempre più elevato.
+* 1° livello __I Malavoglia__: i pescatori analfabeti
+* 2° livello __Mastro don Gesualdo__: il contadino arricchito
+* 3° livello __La duchessa di Leyra__: la figlia del contadino e moglie del nobile
+* 4° livello __L'onorevole Scipione__: figlio della duchessa, intraprende con successo la carriera politica.
+* 5° livello __L'uomo di lusso__: il più alto, figlio dell'onorevole ed è l'esteta spendaccione.
 
 ##L'ultimo Verga
 
-###Il verismo impossibile: “La duchessa di Leyra”
+###Il verismo impossibile: _La duchessa di Leyra_
 Verga non finisce il romanzo perchè nella società cittadina dominano la finzione e la dissimulazione, tutti recitano e portano una maschera: non è dunque possibile illustrarne i segreti facendo semplicemente “parlare da sè” le cose, limitandosi a ritrarre lo spettacolo del mondo in superficie.
 
 ###Per un teatro Verista
-Vengono rappresentate “Cavalleria Rusticana” che ha successo e “In portineria” , quest'ultima senza successo. “La lupa” ottenne scarso successo. Le cause di questo fiasco possono essere individuate sia nel fatto che il pubblico stava volgendo le spalle al Realismo affascinato dall'estetismo d'annunziano, sia nel fatto e il teatro verista di Verga richiedeva che gli attori scomparissero dietro ai personaggi.
+Vengono rappresentate _Cavalleria Rusticana_ che ha successo e _In portineria_ , quest'ultima senza successo. _La lupa_ ottenne scarso successo. Le cause di questo fiasco possono essere individuate sia nel fatto che il pubblico stava volgendo le spalle al Realismo affascinato dall'estetismo d'annunziano, sia nel fatto e il teatro verista di Verga richiedeva che gli attori scomparissero dietro ai personaggi.
 
-###L'ultimo romanzo “Dal tuo al mio”
+###L'ultimo romanzo _Dal tuo al mio_
 Al centro della trama ci sono i conflitti sociali in Sicilia, descritti attraverso il personaggio di Luciano, un capo operaio che dopo aver sposato la figlia del padrone arriva a sparare sugli ex compagni di lotta in rivolta. Il romanzo è deludente sul piano letterario.
