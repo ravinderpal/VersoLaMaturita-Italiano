@@ -3,7 +3,7 @@ Uno degli autori principali del __Naturalismo__.
 
 ## Vita
 
-Nasce a _Parigi_ nel _1840_, dopo la morte del padre fu costretto dalle condizioni economiche a fare il fattorino.
+Nasce a _Parigi_ nel _1840_, dopo la morte del padre fu costretto dalle condizioni economiche a fare il fattorino presso una casa editrice.
 
 Divenne dirigente del reparto pubblicità e poté studiare i meccanismi del mercato editoriale. In seguito si dedicò al giornalismo e alla letteratura.
 
@@ -22,7 +22,9 @@ L’impegno politico e civile di __Zola__ è riassumibile nella battaglia condot
 
 Zola pubblicò sul quotidiano _L’autore_ un esplicito atto d’accusa in seguito al quale fu condannato a un anno di reclusione.
 
-Fuggì in Inghilterra, per poi tornare a Parigi dove morì asfissiato dalle esalazioni di una stufa.Elaborò la poetica naturalista, negli scritti teorici di _Il romanzo sperimentale_.
+Fuggì in Inghilterra, per poi tornare a Parigi dove morì asfissiato dalle esalazioni di una stufa.
+
+Elaborò la poetica naturalista, negli scritti teorici di _Il romanzo sperimentale_.
 
 
 ## Opera: ___Il Germinale___

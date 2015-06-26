@@ -16,6 +16,8 @@
    * [Opere](gabriele_dannunzio/opere.md)
 * [Giovanni Pascoli](giovanni_pascoli/README.md)
    * [Il percorso delle opere](giovanni_pascoli/il_percorso_delle_opere.md)
+   * [La poetica del fanciullino](giovanni_pascoli/la_poetica_del_fanciullino.md)
+   * [Lo stile](giovanni_pascoli/lo_stile.md)
 * [Italo Svevo](italo_svevo/README.md)
    * [Poetica](italo_svevo/poetica.md)
    * [Opere](opere.md)

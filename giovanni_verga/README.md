@@ -3,10 +3,10 @@
 ##La vita
 
 ###La famiglia e la formazione:
-Verga nasce nel 1840 a Catania, la sua formazione scolastica viene affidata a un parente, Antonio Abate, poeta e patriota. Verga scrive il suo primo romanzo storico “Amore e Patria” intriso di romanticismo e amor patriottico. Si iscrive alla facoltà di giurisprudenza che però abbandona. Accoglie con entusiasmo l'arrivo di Garibaldi e si arruola nella Guardia Nazionale.
+Verga nasce nel 1840 a Catania, la sua formazione scolastica viene affidata a un parente, Antonio Abate, poeta e patriota. Verga scrive il suo primo romanzo storico _Amore e Patria_ intriso di romanticismo e amor patriottico. Si iscrive alla facoltà di giurisprudenza che però abbandona. Accoglie con entusiasmo l'arrivo di Garibaldi e si arruola nella Guardia Nazionale.
 
 ###I Romanzi giovanili e il periodo fiorentino:
-Il primo romanzo di Verga è “I Carbonari della montagna”, dopo di esso compie il suo primo viaggio a Firenze dove compone “Una peccatrice”, più tardi compone due romanzi ovvero “Storia di una capinera” che riscuote un notevole successo, ed “Eva”. Si lega intanto con Luigi Capuana , teorico del Verismo. Nella novella “Fantasticheria” esprime le idee prese da Capuana.
+Il primo romanzo di Verga è “I Carbonari della montagna”, dopo di esso compie il suo primo viaggio a Firenze dove compone “Una peccatrice”, più tardi compone due romanzi ovvero “Storia di una capinera” che riscuote un notevole successo, ed “Eva”. Si lega intanto con Luigi Capuana, teorico del Verismo. Nella novella “Fantasticheria” esprime le idee prese da Capuana.
 
 ###Il periodo milanese:
 Si trasferisce a Milano dove incontra gli scrittori “scapigliati”. Scrive due romanzi d'ambiente mondano, “Eros” e “Tigre Reale.”

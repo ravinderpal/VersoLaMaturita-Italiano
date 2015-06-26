@@ -11,50 +11,11 @@ Il titolo richiama la dimora di Garfagnana, i temi sono tratti dalla vita di cam
 ###L'originale classicismo dei Poemi conviviali
 Scrisse prima Poemi conviviali e poi Odi e Inni i cui testi s'incentrano su personaggi contemporanei o moderni, resi illustri da gesta di valore e scoperte scientifiche. I Poemetti conviviali sono venti poemetti scritti in endecasillabi in cui l'autore imita il tono degli antichi carmina le poesie recitate in onore degli eroi leggendari o di personaggi illustri durante i banchetti. Pascoli si sofferma su un mondo pieno d'inquietudine.
 ###L'ultimo Pascoli
-Le ultime raccolte sono rimaste incompiute e sono. Esse rappresentano una forte involuzione e un chiaro abbandono della poetica del fanciullino: Pascoli si presenta come il nuovo poeta-vate della nazione. Canta temi storici, resi illustri da gesta di valore e scoperte scientifiche, celebra il Risorgimento e le virtù civili.
+Le ultime raccolte rappresentano una forte involuzione e un chiaro abbandono della poetica del fanciullino: Pascoli si presenta come il nuovo poeta-vate della nazione. Canta temi storici, resi illustri da gesta di valore e scoperte scientifiche, celebra il Risorgimento e le virtù civili.
 ###Le poesie in latino
-Pascoli fu autore anche di un centinaio di poesie latine i Carminia. Risalta anche in questi testi la ricerca di novità sia linguistica (il latino che usa è quello dei secoli della “decadenza”), che di tematica (i protagonisti sono per lo più figure umili e oppressi).
+Pascoli fu autore anche di un centinaio di poesie latine, i _Carminia_. Risalta anche in questi testi la ricerca di novità sia linguistica (il latino che usa è quello dei secoli della “decadenza”), che di tematica (i protagonisti sono per lo più figure umili e oppressi).
 ###Le prose
-Prima del Fanciullino un'altra importante opera di teoria poetica è Il sabato, scrisse anche studi di critica letteraria specialmente su Leopardi e Dante. Compilò due antologie di poesia latina per le scuole, negli ultimi anni tenne diversi discorsi ufficiali come maestro di vita civile, tra queste anche una in occasione della guerra in Libia “La grande proletaria è mossa” in cui il nido familiare sembra allargarsi all'intera nazione.
-###Dalla visione oggettiva a quella soggettiva
-La situazione culturale fra Otto e Novecento era caratterizzata dal rifiuto del positivismo, dalla sfiducia nella scienza e perfino nella ragione umana. Per Pascoli la realtà non conta tanto in se stessa, cioè come realtà oggettiva ma conta per come l'uomo riesce a vederla e a sentirla dentro di se e quindi come realtà soggettiva.
-###La teoria del “fanciullino”
-In ogni uomo c'è un “fanciullo” che se si risveglia fa sognare a occhi aperti, fa scoprire il lato attraente e misterioso di ogni cosa, fa volare con la fantasia in mondi meravigliosi. Il “fanciullino” osserva le cose della campagna con una prospettiva rovesciata: le cose grandi le vede piccole e le cose piccole  le ingrandisce. Questo fanciullo non è una questione anagrafica ma una condizione interiore che rappresenta la natura pura e ingenua che si può conservare anche in età adulta.
-###Il poeta-fanciullo
-Chiunque riesce a conservarsi fanciullo secondo l'autore può:
-- guardare la realtà che lo circonda con stupore ed entusiasmo
-- percepire così il lato bello e commovente di ogni situazione
-- oltrepassare con la fantasia le apparenze comuni e banali.
-
-Il fanciullino è colui che sa osservare poeticamente il mondo: le sue facoltà sono le stesse del sentimento poetico. Infatti il poeta è precisamente colui che come i fanciulli ha mantenuto l'infantile capacità di meravigliarsi e di intuire, rinuncerà all'eloquenza, alla dottrina e all'imitazione questo perché lo scopo della poesia è solo la poesia pura. Se invece l'arte nasce per affermare messaggi esterni tradisce se stessa e si consegna alla retorica. Pascoli sviluppa ulteriormente il parallelismo tra poeta e fanciullo:
-- Il fanciullo osserva ogni cosa con occhio incantato; anche il poeta-fanciullo sa cogliere le misteriose relazioni.
-- Il fanciullo “vede” le cose in maniera discontinua; anche il poeta-fanciullo esprime le proprie immagini in maniera istintiva e pre-logica se non irrazionale.
-- Al poeta fanciullo sfuggono però le giuste dimensioni perché egli sovreppone le immagini e le sequenze senza rielaborarle nel giusto ordine.
-- Le parole del poeta-fanciullo sono quelle incontaminate della gente semplice di campagna.
-
-###Il simbolismo pascoliano
-Pascoli era un poeta genuinamente simbolista che dice le cose non come sono ma come le sente, l'intima conoscenza della realtà può essere espressa soltanto con i simboli. L'autore si lascia dominare dai particolari e per questo motivo le sue ambientazioni sono sempre analitiche.
-###Presenze simboliche: le campane, i fiori, gli uccelli
-Le campane suonano come in La mia sera per evocare un'atmosfera di sogno, i fiori di Pascoli diventano il simbolo della sessualità bloccata, gli uccelli sono gli animali più citati dal poeta: essi si collegano da un lato al simbolo fondamentale del “nido” e dall'altro appaiono come abitatori di quella misteriosa regione che suggerisce messaggi e voci struggenti. Invece l'uccello notturno apre le porte all'incubo.
-###Il nido e la madre
-Il nido è inteso come casa, famiglia e patria. Gli studiosi hanno voluto esaminare in chiave psicologica il motivo psicologico del nido e per loro è un sintomo:
-- della regressione all'infanzia
-- della sua istintiva diffidenza verso ciò che è sconosciuto
-- della volontà di restare chiusi e protetti in una piccola cerchia di affetti familiari
-- è un riflesso delle paure che nutriva verso la città
-
-###La crisi dell'uomo contemporaneo
-È la biografia stessa di Pascoli a testimoniarci la sua incapacità di “uscire dal nido”, cioè di misurarsi con le difficoltà del modo di vivere un esistenza adulta. Diviene un simbolo poetico dell’intellettuale, dell’incapacità di vivere raffigurata in molti scrittori del Novecento.
-###I suoni: uso delle onomatopee
-u piano fonico Pascoli fa largo uso dell’onomatopea ad esempio “lo sciabordare delle lavandare”, non sono strettamente naturalistiche. Il loro scopo non è soltanto quello di evocare i rumori effettivamente esistenti in natura, ma anche quello di creare  nuove suggestioni ed evocazioni, spesso percepite come minacciose e inquietanti
-
-###La scelta lessicale: diversi livelli di linguaggio
-Pascoli sperimenta vari linguaggi perché usa il linguaggio raro e ricercato, il linguaggio settoriale e anche quello pregrammaticale.
-
-###La rivisitazione della metrica tradizionale:
-Lo sperimentalismo pascoliano non abolisce la metrica, riutilizza sistemi metrici e ritmici molto tradizionali. Però rivisita queste forme con accenti e ritmi del tutto inediti: talora spezza il verso in puntini di sospensione, esclamativi e interrogativi per far percepire quanto sia pre-logico il discorso, talora rende il ritmo poetico come uno singhiozzo. In Pascoli è costante l'uso dell'analogia e  la sinestesia.
-###UNA SINTASSI SOGGETTIVA
- Prevale in lui una visione incerta e soggettiva, da qui derivano l’uso tipicamente pascoliano di frasi ellittiche e il ricorso  sistematico alla coordinazione, anziché alla subordinazione e I periodi per lo più brevissimi. L’accostamento avviene in base a ciò che le parole stesse suggeriscono oppure per analogia.
+Prima del Fanciullino un'altra importante opera di teoria poetica è Il sabato, scrisse anche studi di critica letteraria specialmente su Leopardi e Dante. Negli ultimi anni come _maestro di vita civile_ tenne diversi discorsi ufficiali: tra queste anche una in occasione della guerra in Libia, _La grande proletaria si è mossa_, in cui il nido familiare sembra allargarsi all'intera nazione.
 
 ###Il Fanciullino
 Sono 20 brevi capitoli come una sorta di dialogo interiore fra il poeta e la sua anima di “fanciullino”

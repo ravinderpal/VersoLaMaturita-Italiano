@@ -2,23 +2,22 @@
 
 ##La poesia dannunziana
 ###Gli esordi giovanili: il Decadentismo in versi
-Appena 16-enne scrive Primo vere, la seconda edizione del libro fu preceduta dalla notizia della morte dell'autore la trovata della falsa morte mise in evidenza la spregiudicatezza del poeta. Canto novo era caratterizzata da: accesa sensualità, immersione  “panica” nella natura, vibrazione di luci e colori e ricerca di musicalità. Intermezzo di rime viene segnalato per l'accentuato erotismo e per gli atteggiamenti estetizzanti. La Chimera ha un lessico ricercato, le sonorità antiche rinviano al raffinato Decadentismo.
+Appena 16-enne scrive __Primo vere__, la seconda edizione del libro fu preceduta dalla notizia della morte dell'autore la trovata della falsa morte mise in evidenza la spregiudicatezza del poeta.
+__Canto novo__ era caratterizzata da: accesa sensualità, immersione  “panica” nella natura, vibrazione di luci e colori e ricerca di musicalità. Intermezzo di rime viene segnalato per l'accentuato erotismo e per gli atteggiamenti estetizzanti.
+__La Chimera__ ha un lessico ricercato, le sonorità antiche rinviano al raffinato Decadentismo.
 
 ###Una pausa dai sensi: il Poema paradisiaco
 Il Poema paradisiaco ha come tema la "bontà", il poeta immagina di tornare al contatto con le cose dell'infanzia. Questo ripiegamento interiore si esprime con toni più smorzati e malinconici che sembrano presagire la successiva poesia dei crepuscolari.
 
 ###L'enciclopedia in versi delle Laudi
-Vuole scrivere un grande libro in versi dove raccontare la sua visione pagana del mondo costruito sulla bellezza e la gioia di vivere. Nasce così l'idea delle Laudi del cielo del mare della terra e degli eroi, il progetto prevedeva 7 libri(a quanto pare ha scritto solo 5):
-- i primi 3 sono Maia, Elettra e Alcyone
-- il quarto è Merope viene scritto per celebrare la guerra in Libia
-- il quinto è Asterope  e viene scritto n occasione della prima guerra mondiale
+Vuole scrivere un grande libro in versi dove raccontare la sua visione pagana del mondo costruito sulla bellezza e la gioia di vivere. Nasce così l'idea delle __Laudi del cielo, del mare, della terra e degli eroi__, il progetto prevedeva 7 libri(a quanto pare ha scritto solo 5):
+1. __Maya__ (viene utilizzato il verso libero).
+2. __Elettra__, dove agisce l'ideologia nazionalistica e superomistica. Presenta un tema guerresco.
+3. __Alcione__ dove il tema principale è l'unione tra uomo e natura.
+4. __Merope__ che viene scritto per celebrare la guerra in Libia.
+5. __Asterope__ che viene scritto in occasione della prima guerra mondiale.
 
-Il vero tema del libro è l'istintiva felicità prodotta dalla fusione corporea con la natura.
-Natura, nazionalismo e musicalità in Maia, Elettra e Alcyone:
-I libri più riusciti delle Laudi sono i primi 3.
-- In Maia sceglie il verso libero
-- In Elettra in sottofondo agisce l'ideologia nazionalistica e superomistica
-- In Alcyone il tema è l'unione tra uomo e natura.
+Il vero tema del libro è l'__istintiva felicità prodotta dalla fusione corporea con la natura__.
 
 ##Prosa “notturna”
 ###Una nuova scrittura per la prosa
